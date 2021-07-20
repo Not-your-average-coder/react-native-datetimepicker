@@ -59,7 +59,7 @@
     "metro-react-native-babel-preset": "^0.55.0",
     "moment": "^2.24.0",
     "react": "^16.8.6",
-    "react-native": "^0.60.4",
+    "react-native": "^0.62.3",
     "react-test-renderer": "^16.8.6"
   },
   "peerDependencies": {
